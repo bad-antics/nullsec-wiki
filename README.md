@@ -7,7 +7,6 @@
 [![Tools](https://img.shields.io/badge/Tools-135+-red?style=for-the-badge)](https://github.com/bad-antics/nullsec-linux)
 [![NullSec Linux](https://img.shields.io/badge/NullSec_Linux-v5.0-blue?style=for-the-badge)](https://github.com/bad-antics/nullsec-linux)
 [![NullKia](https://img.shields.io/badge/NullKia-v3.0-green?style=for-the-badge)](https://github.com/bad-antics/nullkia)
-[![Discord](https://img.shields.io/badge/Discord-killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
 
 </div>
 
@@ -65,7 +64,6 @@
 | [🐧 NullSec Linux](https://github.com/bad-antics/nullsec-linux) | Security distribution with 135+ tools |
 | [📱 NullKia](https://github.com/bad-antics/nullkia) | Mobile security framework |
 | [🌐 Portal](https://bad-antics.github.io) | Official website |
-| [💬 Discord](https://discord.gg/killers) | Community support |
 | [📦 All Repos](https://github.com/bad-antics) | 373 repositories |
 
 ---
@@ -85,6 +83,5 @@
 
 <div align="center">
 
-**© 2024-2026 bad-antics** • [GitHub](https://github.com/bad-antics) • [Discord](https://discord.gg/killers)
 
 </div>

@@ -90,7 +90,6 @@ Tools for vehicle security:
 ## Getting Help
 
 - 📖 [Documentation](README.md) — Full wiki documentation
-- 💬 [Discord](https://discord.gg/killers) — Community support
 - 🐛 [Issues](https://github.com/bad-antics/nullsec-linux/issues) — Bug reports
 - 🌐 [Website](https://bad-antics.github.io) — Official portal
 
