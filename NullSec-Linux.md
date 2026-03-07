@@ -1,6 +1,6 @@
 # 🐧 NullSec Linux v5.0
 
-NullSec Linux is a security-focused Linux distribution built on Debian 13, featuring 135+ pre-installed security tools and specialized editions for different security domains.
+NullSec Linux is a security-focused Linux distribution built on Debian 13, featuring 140+ pre-installed security tools and specialized editions for different security domains.
 
 ## Overview
 
@@ -9,7 +9,7 @@ NullSec Linux is a security-focused Linux distribution built on Debian 13, featu
 | Base | Debian 13 "Trixie" |
 | Kernel | 6.8 LTS (security hardened) |
 | Desktop | XFCE + Wayland/Hyprland |
-| Tools | 135+ security tools |
+| Tools | 140+ security tools |
 | Editions | 9 (4 standard + 5 specialized) |
 | Architectures | 4 (AMD64, ARM64, RISC-V, Apple Silicon) |
 

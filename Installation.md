@@ -17,7 +17,7 @@ This guide covers installing NullSec Linux and the NullKia mobile security frame
 
 1. Visit [NullSec Linux Releases](https://github.com/bad-antics/nullsec-linux/releases)
 2. Choose your edition:
-   - **Standard** — Full toolkit (135+ tools)
+   - **Standard** — Full toolkit (140+ tools)
    - **Cloud** — Cloud security focus
    - **AI/ML** — Machine learning security
    - **Hardware** — Hardware hacking

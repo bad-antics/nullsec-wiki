@@ -6,10 +6,10 @@ Welcome to the official NullSec Security Framework documentation. This wiki cove
 
 **NullSec** is a comprehensive security framework consisting of:
 
-- **NullSec Linux v5.0** — A security-focused Linux distribution with 135+ pre-installed tools
+- **NullSec Linux v5.0** — A security-focused Linux distribution with 140+ pre-installed tools
 - **NullKia v3.0** — Mobile security framework supporting 18 device manufacturers
 - **Specialized Tool Suites** — Cloud, AI/ML, Hardware, and Automotive security tools
-- **373+ Open Source Repositories** — Tools across 15+ programming languages
+- **706+ Open Source Repositories** — Tools across 15+ programming languages
 
 ## Core Components
 
@@ -23,7 +23,7 @@ A Debian 13-based security distribution designed for:
 - Incident response
 
 **Features:**
-- 135+ security tools pre-installed
+- 140+ security tools pre-installed
 - 5 specialized editions
 - 4 architecture support (AMD64, ARM64, RISC-V, Apple Silicon)
 - Kernel 6.8 LTS with security hardening
@@ -87,6 +87,15 @@ Tools for vehicle security:
 3. **Boot** from USB or install to disk
 4. **Explore tools** organized by category in the applications menu
 
+## 📝 Blog & Articles
+
+> *Daily posts on security research, tool development, and the open-source security ecosystem.* [**📰 Full Blog Index**](Blog-Index)
+
+**Latest:**
+- 🪓 [Log Analysis in Incident Response — What Defenders Miss](Blog-2026-03-07-Log-Analysis-IR) — Attack chain reconstruction, response size analysis, and building LogReaper *(Mar 7)*
+- 🐬 [Flipper Zero — The Swiss Army Knife That Fits in Your Pocket](Flipper-Zero-Deep-Dive) — SubGHz, BadUSB, NFC, RFID, IR, firmware ecosystem, building 430+ payloads, and the Flipper + Pineapple combo *(Mar 6)*
+- 🍍 [Hak5 Payloads & Tools — A Deep Dive](Hak5-Payloads-and-Tools) — Deep dive into the Hak5 ecosystem, payload development, and building the largest third-party Pineapple suite *(Mar 5)*
+
 ## Getting Help
 
 - 📖 [Documentation](README.md) — Full wiki documentation
@@ -99,4 +108,4 @@ All NullSec tools are released under open source licenses. See individual reposi
 
 ---
 
-*Last updated: January 2026*
+*Last updated: March 2026*

@@ -4,7 +4,7 @@
 
 **Official Documentation for the NullSec Security Framework**
 
-[![Tools](https://img.shields.io/badge/Tools-135+-red?style=for-the-badge)](https://github.com/bad-antics/nullsec-linux)
+[![Tools](https://img.shields.io/badge/Tools-140+-red?style=for-the-badge)](https://github.com/bad-antics/nullsec-linux)
 [![NullSec Linux](https://img.shields.io/badge/NullSec_Linux-v5.0-blue?style=for-the-badge)](https://github.com/bad-antics/nullsec-linux)
 [![NullKia](https://img.shields.io/badge/NullKia-v3.0-green?style=for-the-badge)](https://github.com/bad-antics/nullkia)
 
@@ -24,7 +24,7 @@
 - [NullSec Linux Overview](NullSec-Linux.md) — Distribution documentation
 - [Editions Guide](Editions.md) — Standard, Cloud, AI/ML, Hardware, Automotive
 - [Architecture Support](Architecture.md) — AMD64, ARM64, RISC-V, Apple Silicon
-- [Tool Categories](Tool-Categories.md) — 135+ tools organized by domain
+- [Tool Categories](Tool-Categories.md) — 140+ tools organized by domain
 - [Building from Source](Building.md) — Compile your own ISO
 
 ### NullKia v3.0 Mobile Security
@@ -61,10 +61,10 @@
 
 | Resource | Description |
 |----------|-------------|
-| [🐧 NullSec Linux](https://github.com/bad-antics/nullsec-linux) | Security distribution with 135+ tools |
+| [🐧 NullSec Linux](https://github.com/bad-antics/nullsec-linux) | Security distribution with 140+ tools |
 | [📱 NullKia](https://github.com/bad-antics/nullkia) | Mobile security framework |
 | [🌐 Portal](https://bad-antics.github.io) | Official website |
-| [📦 All Repos](https://github.com/bad-antics) | 373 repositories |
+| [📦 All Repos](https://github.com/bad-antics) | 706 repositories |
 
 ---
 
@@ -72,12 +72,12 @@
 
 | Component | Count |
 |-----------|-------|
-| Security Tools | 135+ |
+| Security Tools | 140+ |
 | Programming Languages | 15+ |
 | Linux Editions | 9 |
 | Architectures | 4 |
 | Mobile Manufacturers | 18 |
-| Public Repositories | 373 |
+| Public Repositories | 706 |
 
 ---
 
